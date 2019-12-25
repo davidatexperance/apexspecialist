@@ -1,2 +1,0 @@
-# apexspecialist
-Apex Specialist 
